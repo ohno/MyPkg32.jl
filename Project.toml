@@ -1,0 +1,10 @@
+name = "MyPkg32"
+uuid = "33024cf7-0f4d-4a80-8ff6-fef3ab383dd0"
+authors = ["Shuhei Ohno"]
+version = "0.0.1"
+
+[deps]
+DocStringExtensions = "ffbed154-4ef7-542d-bbb7-c09d3a79fcae"
+
+[compat]
+julia = "1.11"
